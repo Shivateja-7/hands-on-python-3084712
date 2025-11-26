@@ -7,7 +7,7 @@ if RUN_INDENTED:
 
 print(message)
 
-
+# J ust checking if I can push my code to git
 def my_function():
     greet = "Hello"
     return greet
